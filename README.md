@@ -1,5 +1,5 @@
 
-# Air Passenger Forecasting using LSTM - Results
+# Air Passenger Forecasting using LSTM
 
 This project involves forecasting the number of monthly international air passengers using an LSTM (Long Short-Term Memory) model. The analysis includes data loading, preprocessing, model building, prediction, and evaluation.
 
