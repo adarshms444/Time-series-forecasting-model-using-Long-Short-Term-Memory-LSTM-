@@ -21,7 +21,7 @@ This project involves forecasting the number of monthly international air passen
     - Mean Squared Error (MSE)
     - Mean Absolute Error (MAE)
 
-$ How the Analysis Was Performed
+ How the Analysis Was Performed
 
 --> Step 1: Importing Libraries
 - Imported NumPy, Pandas, Matplotlib for data handling and visualization.
